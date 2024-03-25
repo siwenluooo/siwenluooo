@@ -5,7 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Natural Language Processing, Multimodal Learning and MLLMs. 
-- 🌱 I’m currently learning LLM-based Agent Simulation
+- 🌱 I’m currently learning LLM-based Agent Simulation as well.
+- 🤔 I’m also looking for new researach direction towards world model and possiblely reinforcement-learning enhanced NLP.
   <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
